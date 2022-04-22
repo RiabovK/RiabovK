@@ -1,5 +1,5 @@
-### Привет всем, меня зовут Константин👋
-- 💰 Мое резюме [здесь](https://docs.google.com/document/d/1YBsV5SZXDAgRQqwkORiHcPVOQzCcFKeTcwOIYrbRvL8/edit?usp=sharing).
+### Привет всем👋
+
 
 
 <!--
@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 💰 Мое резюме [здесь](https://docs.google.com/document/d/1YBsV5SZXDAgRQqwkORiHcPVOQzCcFKeTcwOIYrbRvL8/edit?usp=sharing).
 -->
