@@ -1,9 +1,12 @@
-### 👋 Всем привет!
+### 👋 Hi where!
+- 👀 I’m interested data analytics in any form
+- 💞️ I’m looking to collaborate on any kinds of projects
+- 📫 telegram: @riabov_k
 
-В данном репозитарии вы найдете мои проекты по направлениям DA/DS/ML
 
 
-### Проекты:
+
+В данном репозитарии вы найдете мои проекты по направлениям DA/DS/ML:
 
 
 ### Product / Data Analysis
