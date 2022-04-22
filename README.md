@@ -1,4 +1,5 @@
-### Hi there, my name Konstantin 👋
+### Привет всем, меня зовут Константин👋
+- 💰 Мое резюме [здесь](https://docs.google.com/document/d/1YBsV5SZXDAgRQqwkORiHcPVOQzCcFKeTcwOIYrbRvL8/edit?usp=sharing).
 
 
 <!--
