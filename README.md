@@ -41,5 +41,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 💰 Мое резюме [здесь](https://docs.google.com/document/d/1YBsV5SZXDAgRQqwkORiHcPVOQzCcFKeTcwOIYrbRvL8/edit?usp=sharing).
 
+More emoji 🕶️
+https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
+
 I'm ..., an entusiastic full stack developer looking forward to contribute for the open source community
 -->
