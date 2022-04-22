@@ -6,7 +6,10 @@
 
 
 
-В данном репозитарии вы найдете мои проекты по направлениям DA/DS/ML:
+В данном репозитарии вы найдете мои проекты по направлениям DA/DS/ML
+
+__________________________________________________________________________________________________________________________
+
 
 
 ### Product / Data Analysis
@@ -14,6 +17,9 @@
 | **Название проекта** | **Описание проекта** |  **Стек** |
 | -------------------- | --------------------- | --------------------- |
 | Проект 1. Оптимизация онбординга в первую сессию ([github](https://github.com/RiabovK/Onboarding-optimization-in-the-first-session) / [nbviewer](https://nbviewer.org/github/RiabovK/Onboarding-optimization-in-the-first-session/blob/main/Onboarding_optimization_in_the_first_session.ipynb)) | Исследование поведения пользователей в первой сессии SaaS бизнеса с целью повышения метрики активации. |  retentioneering, pandas, numpy, matplotlib, seaborn, clusterization |
+
+__________________________________________________________________________________________________________________________
+
 
 
 ### Data Science
