@@ -1,6 +1,6 @@
-### 👋 Hi where!
-- 👀 I’m interested data analytics in any form
-- 💞️ I’m looking to collaborate on any kinds of projects
+### 👋 Привет всем, меня зовут Константин!
+- 👀 Меня интересует аналитика данных в любых формах
+- 💞️ Готов к сотрудничеству в совместных проектах
 - 📫 telegram: @riabov_k
 
 
