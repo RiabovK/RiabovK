@@ -18,7 +18,7 @@
 
 ### Data Science
 
-| **Проект** | **Описание** |  **Стек** |
+| **Название проекта** | **Описание проекта** |  **Стек** |
 | -------------------- | --------------------- | --------------------- |
 | Проект 1. Прогноз среднесуточной цены продажи электроэнергии ([github](https://github.com/RiabovK/Forecast-of-the-average-daily-selling-price-of-electricity) / [nbviewer](https://nbviewer.org/github/RiabovK/Forecast-of-the-average-daily-selling-price-of-electricity/blob/main/Forecast_of_the_average_daily_selling_price_of_electricity.ipynb)) | Выполнение прогноза среднесуточной цены продажи электроэнергии с горизонтом прогноза – 30 суток. |  time series, pandas, numpy, matplotlib, seaborn, sklearn, fbprophet, neuralprophet, SARIMAX |
 
