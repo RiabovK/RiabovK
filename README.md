@@ -13,16 +13,15 @@
 
 | **Название проекта** | **Описание проекта** |  **Стек** |
 | -------------------- | --------------------- | --------------------- |
-| Проект 1. Оптимизация онбординга в первую сессию ([github](https://github.com/RiabovK/Onboarding-optimization-in-the-first-session) / [nbviewer](https://nbviewer.org/github/RiabovK/Onboarding-optimization-in-the-first-session/blob/main/Onboarding_optimization_in_the_first_session.ipynb)) | Исследование поведения пользователей SaaS бизнеса в первой сессии с целью повышения метрики активации. |  retentioneering, pandas, numpy, matplotlib, seaborn, clusterization |
+| Проект 1. Оптимизация онбординга в первую сессию ([github](https://github.com/RiabovK/Onboarding-optimization-in-the-first-session) / [nbviewer](https://nbviewer.org/github/RiabovK/Onboarding-optimization-in-the-first-session/blob/main/Onboarding_optimization_in_the_first_session.ipynb)) | Исследование поведения пользователей SaaS бизнеса в первой сессии с целью повышения метрики активации. Тип проекта - CJM. |  retentioneering, pandas, numpy, matplotlib, seaborn, clusterization |
 
 
 ### Data Science
 
 | **Название проекта** | **Описание проекта** |  **Стек** |
 | -------------------- | --------------------- | --------------------- |
-| Проект 1. Прогноз среднесуточной цены продажи электроэнергии ([github](https://github.com/RiabovK/Forecast-of-the-average-daily-selling-price-of-electricity) / [nbviewer](https://nbviewer.org/github/RiabovK/Forecast-of-the-average-daily-selling-price-of-electricity/blob/main/Forecast_of_the_average_daily_selling_price_of_electricity.ipynb)) | Выполнение прогноза среднесуточной цены продажи электроэнергии с горизонтом прогноза – 30 суток. |  time series, pandas, numpy, matplotlib, seaborn, sklearn, Prophet, NeuralProphet, SARIMAX |
-
-
+| Проект 1. Прогноз среднесуточной цены продажи электроэнергии ([github](https://github.com/RiabovK/Forecast-of-the-average-daily-selling-price-of-electricity) / [nbviewer](https://nbviewer.org/github/RiabovK/Forecast-of-the-average-daily-selling-price-of-electricity/blob/main/Forecast_of_the_average_daily_selling_price_of_electricity.ipynb)) | Выполнение прогноза среднесуточной цены продажи электроэнергии с горизонтом прогноза – 30 суток. Тип проекта - временные ряды. |  pandas, numpy, matplotlib, seaborn, sklearn, Prophet, NeuralProphet, SARIMAX, Blending |
+| Проект 2. Предсказание оттока пользователей ([github](https://github.com/RiabovK/User-churn-prediction) / [nbviewer](https://nbviewer.org/github/RiabovK/User-churn-prediction/blob/main/User_churn_prediction.ipynb)) | Моделирование оттока пользователей телекоммуникационной компании. Тип проекта - классификация. |  pandas, numpy, matplotlib, seaborn, sklearn, SVC, XGBoost, CatBoost, Pipeline, Stacking  |
 
 <!--
 **RiabovK/RiabovK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
