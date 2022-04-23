@@ -14,7 +14,7 @@
 | **Название проекта** | **Описание проекта** |  **Стек** |
 | -------------------- | --------------------- | --------------------- |
 | Проект 1. Оптимизация онбординга в первую сессию ([github](https://github.com/RiabovK/Onboarding-optimization-in-the-first-session) / [nbviewer](https://nbviewer.org/github/RiabovK/Onboarding-optimization-in-the-first-session/blob/main/Onboarding_optimization_in_the_first_session.ipynb)) | Исследование поведения пользователей SaaS бизнеса в первой сессии с целью повышения метрики активации. Тип проекта - CJM/кластеризация. |  retentioneering, pandas, numpy, matplotlib, seaborn|
-| Проект 2. Оптимизация онбординга в первую сессию ([github](https://github.com/RiabovK/Anomaly-detection-system-alert/blob/main/Anomaly%20detection%20system%20alert.ipynb) / [nbviewer](https://nbviewer.org/github/RiabovK/Anomaly-detection-system-alert/blob/main/Anomaly%20detection%20system%20alert.ipynb)) | Реализация автоматической алерт системы по поиску аномалий, с алертом в telegram. Тип проекта - Aлерт. |  retentioneering, pandas, numpy, matplotlib, seaborn, telegram, pandahouse|
+| Проект 2. Автоматической алерт системы ([github](https://github.com/RiabovK/Anomaly-detection-system-alert/blob/main/Anomaly%20detection%20system%20alert.ipynb) / [nbviewer](https://nbviewer.org/github/RiabovK/Anomaly-detection-system-alert/blob/main/Anomaly%20detection%20system%20alert.ipynb)) | Реализация автоматической алерт системы по поиску аномалий, с алертом в telegram. Тип проекта - Aлерт. |  retentioneering, pandas, numpy, matplotlib, seaborn, telegram, pandahouse|
 
 
 ### Data Science
