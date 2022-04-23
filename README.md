@@ -22,7 +22,7 @@
 
 | **Название проекта** | **Описание проекта** |  **Стек** |
 | -------------------- | --------------------- | --------------------- |
-| Проект 1. Прогноз среднесуточной цены продажи электроэнергии ([github](https://github.com/RiabovK/Forecast-of-the-average-daily-selling-price-of-electricity) / [nbviewer](https://nbviewer.org/github/RiabovK/Forecast-of-the-average-daily-selling-price-of-electricity/blob/main/Forecast_of_the_average_daily_selling_price_of_electricity.ipynb)) | Выполнение прогноза среднесуточной цены продажи электроэнергии с горизонтом прогноза – 30 суток. Тип проекта - временные ряды. |  pandas, numpy, matplotlib, seaborn, sklearn, Prophet, NeuralProphet, SARIMAX, Blending |
+| Проект 1. Прогнозирование среднесуточной цены продажи электроэнергии ([github](https://github.com/RiabovK/Forecast-of-the-average-daily-selling-price-of-electricity) / [nbviewer](https://nbviewer.org/github/RiabovK/Forecast-of-the-average-daily-selling-price-of-electricity/blob/main/Forecast_of_the_average_daily_selling_price_of_electricity.ipynb)) | Выполнение прогноза среднесуточной цены продажи электроэнергии с горизонтом прогноза – 30 суток. Тип проекта - временные ряды. |  pandas, numpy, matplotlib, seaborn, sklearn, Prophet, NeuralProphet, SARIMAX, Blending |
 | Проект 2. Предсказание оттока пользователей ([github](https://github.com/RiabovK/User-churn-prediction) / [nbviewer](https://nbviewer.org/github/RiabovK/User-churn-prediction/blob/main/User_churn_prediction.ipynb)) | Моделирование оттока пользователей телекоммуникационной компании. Тип проекта - классификация. |  pandas, numpy, matplotlib, seaborn, sklearn, SVC, XGBoost, CatBoost, Pipeline, Stacking  |
 
 <!--
